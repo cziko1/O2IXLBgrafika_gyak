@@ -1,0 +1,15 @@
+Repostory felépítés:
+--> Feladat
+--> Gyakorlatok
+--> README
+
+ALAPVETŐ PARANCSOK:
+git init
+git clone
+git status
+git add
+git rm
+git commit
+git log
+git push
+git pull
